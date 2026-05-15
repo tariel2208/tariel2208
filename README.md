@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tariel</h1>
 
 <h3 align="center">
-Process Automation Engineering Student | Web Developer | Robotics & AI Enthusiast
+Process Automation Engineering Student | Interested in Web Development  | Robotics & AI Enthusiast
 </h3>
 
 <p align="center">
