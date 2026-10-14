@@ -10,13 +10,19 @@ Process Automation Engineering Student | AI/ML & Computer Vision Enthusiast | Ro
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
-- 🎓 Studying Process Automation Engineering at Baku Higher Oil School  
-- 💻 Passionate about Web Development, Robotics, and AI  
-- ⚙️ Currently learning React.js, Next.js, Node.js  
-- 🔭 Building projects that connect hardware and software  
-- 🎯 Goal: Become a strong Full Stack + Embedded Systems developer  
+🎓 Process Automation Engineering student at Baku Higher Oil School
+
+🤖 Exploring Artificial Intelligence, Machine Learning, and Computer Vision
+
+🧠 Strengthening my mathematical foundations for AI
+
+💻 Building practical projects with Python and modern AI tools
+
+⚙️ Interested in robotics, intelligent systems, and the intersection of software and engineering
+
+🌱 Continuously learning by turning concepts into working projects
 
 ---
 
@@ -72,19 +78,17 @@ Programming & Engineering
 
 ---
 
-## 🌐 Connect with Me
+🌐 Connect with Me
 
-<p align="left">
+<p>
   <a href="https://linkedin.com/in/tariel-shiraliyev">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-
   <a href="https://instagram.com/shir4liyevv">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
   </a>
-
   <a href="mailto:shiraliyevtariel12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
 
